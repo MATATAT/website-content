@@ -13,11 +13,19 @@
     },
     "experience": [
         {
+            "name": "Omni Creator Products",
+            "position": "Senior Software Developer",
+            "location": "Seattle, WA",
+            "startDate": "October 2022",
+            "endDate": "",
+            "notes": []
+        },
+        {
             "name": "Hulu/Disney Streaming",
             "position": "Senior Software Developer",
             "location": "Seattle, WA",
             "startDate": "August 2019",
-            "endDate": "",
+            "endDate": "October 2022",
             "notes": [
                 "Led front-end development of a first-party interactive ad solution for Hulu device platforms.",
                 "Led development integrating 3rd-party playback analytics into device platforms.",
