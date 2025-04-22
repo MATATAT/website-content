@@ -13,19 +13,11 @@
     },
     "experience": [
         {
-            "name": "Omni Creator Products",
-            "position": "Senior Software Developer",
-            "location": "Seattle, WA",
-            "startDate": "October 2022",
-            "endDate": "",
-            "notes": []
-        },
-        {
             "name": "Hulu/Disney Streaming",
             "position": "Senior Software Developer",
             "location": "Seattle, WA",
             "startDate": "August 2019",
-            "endDate": "October 2022",
+            "endDate": "",
             "notes": [
                 "Led front-end development of a first-party interactive ad solution for Hulu device platforms.",
                 "Led development integrating 3rd-party playback analytics into device platforms.",
@@ -57,7 +49,8 @@
             "startDate": "June 2012",
             "endDate": "November 2015",
             "notes": [
-                "Developed document search framework on top of Lucene allowing search results to be fine-tuned on a per customer basis. Improved original design to increase speeds up to 66%."
+                "Developed document search framework on top of Lucene allowing search results to be fine-tuned on a per customer basis. Improved original design to increase speeds up to 66%.",
+                "Addressed performance issues with user importing resulting in processing times going from hours to minutes."
             ]
         },
         {
@@ -74,30 +67,28 @@
     "qualifications": [
         {
             "title": "Languages",
-            "children": [
-                "JavaScript/TypeScript",
-                "HTML5/CSS",
-                "Rust",
-                "C#/.NET",
-                "Python 3.X",
-                "SQL (T-SQL) and NoSQL"
-            ]
+            "children": ["JavaScript/TypeScript", "HTML5/CSS", "Rust", "Kotlin"]
         },
         {
             "title": "Tools",
             "children": [
-                "KnockoutJS, ReactJS, jQuery",
-                "Kafka, Docker, Nomad, ElasticSearch",
-                "Windows, Unix, Git"
+                "React",
+                "NodeJS",
+                "Remix",
+                "NestJS",
+                "Spring",
+                "gRPC",
+                "Docker",
+                "ElasticSearch",
+                "GitHub Actions",
+                "AWS",
+                "Terraform",
+                "Git"
             ]
         },
         {
             "title": "Likes",
-            "children": [
-                "Collaborative programming",
-                "Functional programming paradigms",
-                "Strong typing in code"
-            ]
+            "children": ["Collaboration", "Functional programming paradigms", "Strong typing in code", "Optimizing for rapid development"]
         }
     ],
     "education": {
