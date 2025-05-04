@@ -37,7 +37,6 @@
                 "Led development integrating 3rd-party playback analytics into device platforms.",
                 "Analyzed performance on live programming guide and optimized to improve initial render time by 75% (~6 seconds). Response times in navigation were also improved.",
                 "Collaborated with UI designers and product managers on improved playback seeking experience and “channel flipping” features.",
-                "Assisted in development of a NodeJS based Roku BrightScript interpreter.",
                 "Gave lectures across the organization on Apple HLS standards, team-scale project planning techniques, pair programming techniques, and mob programming techniques."
             ]
         },
