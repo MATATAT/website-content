@@ -19,10 +19,11 @@
             "startDate": "October 2022",
             "endDate": "",
             "notes": [
-                "Owned development and defined standards for web applications - account managment and player onboarding.",
-                "Owned development and defined standards for Rust-based applications - game server allocation and desktop launcher.",
-                "Led or assisted with design and development of various game services including authentication, user management, party management, and voice chat services.",
-                "Developed and managed a Discord bot responsible for some select moderation tasks and early inception of party and voice chat functionality."
+                "Led design, development, and standardization of web applications for account management and player onboarding.",
+                "Led design, development, and standardization of Rust-based desktop launcher applications.",
+                "Led design and implementation of distribution services, utilizing Kotlin and Rust for tooling and services.",
+                "Contributed to design and development of game services, including authentication, user management, party management, communications, and voice chat.",
+                "Developed and maintained a Discord bot for moderation tasks and initial party and voice chat functionality."
             ]
         },
         {
