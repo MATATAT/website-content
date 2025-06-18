@@ -20,8 +20,7 @@
             "endDate": "",
             "notes": [
                 "Led design, development, and standardization of web applications for account management and player onboarding.",
-                "Led design, development, and standardization of Rust-based desktop launcher applications.",
-                "Led design and implementation of distribution services, utilizing Kotlin and Rust for tooling and services.",
+                "Led design, development, and standardization of Rust-based applications and services - including desktop launcher and distribution services/tooling",
                 "Contributed to design and development of game services, including authentication, user management, party management, communications, and voice chat.",
                 "Developed and maintained a Discord bot for moderation tasks and initial party and voice chat functionality."
             ]
