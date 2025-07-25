@@ -65,8 +65,8 @@
             "endDate": "November 2015",
             "summary": "",
             "notes": [
-                "Developed document search framework on top of Lucene allowing search results to be fine-tuned on a per customer basis. Improved original design to increase speeds up to 66%.",
-                "Addressed performance issues with user importing resulting in processing times going from hours to minutes."
+                "Built a customer-tunable Lucene search framework and optimized performance by up to 66%.",
+                "Reduced data import times from hours to minutes through workflow improvements."
             ]
         },
         {
