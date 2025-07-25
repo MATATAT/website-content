@@ -96,22 +96,18 @@
         {
             "title": "Tools",
             "children": [
-                "HTML5/CSS",
-                "React",
-                "NodeJS",
-                "Remix",
-                "NestJS",
-                "Spring Boot",
-                "gRPC",
-                "Docker",
-                "ElasticSearch",
-                "GitHub Actions",
-                "AWS",
-                "Terraform",
-                "DynamoDB",
-                "SQLite",
-                "Redis",
-                "SQS/SNS"
+                {
+                    "category": "Frontend",
+                    "values": ["React", "Remix", "HTML5/CSS", "NodeJS", "NestJS"]
+                },
+                {
+                    "category": "Backend",
+                    "values": ["Spring Boot", "gRPC", "Redis", "SQLite", "DynamoDB"]
+                },
+                {
+                    "category": "Infra",
+                    "values": ["AWS", "Docker", "Terraform", "GitHub Actions", "SNS/SQS", "ElasticSearch"]
+                }
             ]
         },
         {
