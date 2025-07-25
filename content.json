@@ -19,10 +19,10 @@
             "startDate": "October 2022",
             "endDate": "",
             "notes": [
-                "Led design, development, and standardization of web applications for account management and player onboarding.",
-                "Led design, development, and standardization of Rust-based applications and services - including desktop launcher and distribution services/tooling",
-                "Contributed to design and development of game services using Kotlin/Spring Boot: authentication, user management, party management, communications, and voice chat.",
-                "Developed and maintained a Discord bot for moderation tasks and initial party and voice chat functionality."
+                "Led development of backend and web services supporting account management and player onboarding, using Kotlin, React, and Spring Boot.",
+                "Built internal tooling (e.g., desktop launcher, distribution pipeline) to support content release and testing workflows for game teams.",
+                "Contributed to game platform services for authentication, user and party management, and player communication (e.g., email verification, account notifications).",
+                "Built and maintained a Discord-based bot to support early social features and moderation workflows."
             ]
         },
         {
@@ -88,7 +88,7 @@
                 "NodeJS",
                 "Remix",
                 "NestJS",
-                "Spring",
+                "Spring Boot",
                 "gRPC",
                 "Docker",
                 "ElasticSearch",
