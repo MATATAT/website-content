@@ -18,10 +18,12 @@
             "location": "Seattle, WA",
             "startDate": "October 2022",
             "endDate": "",
+            "summary": "Built platform services and tooling to support development and playtesting for multiplayer titles, including an unreleased project and a stealth game in development.",
             "notes": [
-                "Led development of backend and web services supporting account management and player onboarding, using Kotlin, React, and Spring Boot.",
-                "Built internal tooling (e.g., desktop launcher, distribution pipeline) to support content release and testing workflows for game teams.",
+                "Led development of backend and web services supporting account management and player onboarding, using Kotlin, Spring Boot, and React.",
+                "Designed and implemented distribution infrastructure and desktop launcher in Rust, enabling scalable content delivery and seamless game startup.",
                 "Contributed to game platform services for authentication, user and party management, and player communication (e.g., email verification, account notifications).",
+                "Supported live playtests with over 500 player engagements across multiple hour-long sessions, validating systems under real usage and informing iteration.",
                 "Built and maintained a Discord-based bot to support early social features and moderation workflows."
             ]
         },
@@ -31,12 +33,13 @@
             "location": "Seattle, WA",
             "startDate": "August 2019",
             "endDate": "October 2022",
+            "summary": "Led front-end development of interactive ad and playback features across Hulu’s OTT device platforms, with high-scale user reach.",
             "notes": [
-                "Led front-end development for interactive ad experiences across Hulu’s device platforms, collaborating closely with design and product teams.",
-                "Integrated third-party analytics SDKs across multiple platforms, ensuring accurate telemetry for live video playback and user interactions.",
-                "Improved rendering and navigation performance in the live programming guide, reducing initial load times by 75% (~6 seconds).",
-                "Delivered playback feature enhancements including seek behavior and channel-flipping mechanics across supported platforms.",
-                "Championed developer education across the org, giving internal talks on HLS standards, pair/mob programming, and team-scale planning practices."
+                "Led front-end development for interactive ad experiences across Hulu’s device platforms, collaborating closely with product and design teams.",
+                "Integrated third-party analytics SDKs across multiple devices, ensuring accurate telemetry for live video playback and user interaction reporting.",
+                "Improved rendering and navigation performance in the live programming guide, reducing initial load times by 75% (~6 seconds) and significantly improving responsiveness.",
+                "Delivered new playback features including improved seeking and channel-flipping behavior for live and linear TV experiences.",
+                "Led internal knowledge-sharing efforts with talks on HLS standards, pair/mob programming practices, and team-scale planning techniques."
             ]
         },
         {
@@ -45,12 +48,13 @@
             "location": "Seattle, WA",
             "startDate": "November 2015",
             "endDate": "August 2019",
+            "summary": "Developed systems for live broadcast routing, telemetry, and ad signaling used in large-scale video streaming pipelines.",
             "notes": [
-                "Designed and implemented automated video source routing and monitoring services in Python, interfacing with live broadcast hardware and control APIs.",
-                "Led observability and telemetry efforts for a high-volume transcoding platform using StatsD, Kafka, and DataDog, collaborating with engineers across a C++ codebase.",
-                "Built real-time ad and program signaling components in C#, ingesting SCTE-35 broadcast data and generating outputs based on custom configurations.",
-                "Developed a scalable logging and diagnostics pipeline using AWS Kinesis, Lambda, and ElasticSearch to support rapid debugging in production.",
-                "Investigated and resolved high-priority defects in live environments under tight operational timelines."
+                "Designed and implemented automated video source routing and monitoring services in Python, integrating with broadcast control systems and live ingest workflows.",
+                "Led observability and telemetry development for a high-volume transcoding platform using Kafka and DataDog, collaborating across a C++ codebase.",
+                "Built ad and program signaling components in C#, processing SCTE-35 broadcast signals to support dynamic ad insertion and playout control.",
+                "Developed a real-time diagnostics and logging pipeline using AWS Kinesis, Lambda, and ElasticSearch to improve debugging velocity in production.",
+                "Investigated and resolved high-priority defects and service outages in time-sensitive, production-critical environments."
             ]
         },
         {
@@ -59,6 +63,7 @@
             "location": "Seattle, WA",
             "startDate": "June 2012",
             "endDate": "November 2015",
+            "summary": "",
             "notes": [
                 "Developed document search framework on top of Lucene allowing search results to be fine-tuned on a per customer basis. Improved original design to increase speeds up to 66%.",
                 "Addressed performance issues with user importing resulting in processing times going from hours to minutes."
@@ -70,6 +75,7 @@
             "location": "Pullman, WA",
             "startDate": "May 2010",
             "endDate": "May 2012",
+            "summary": "",
             "notes": [
                 "Designed user interface and worked with senior engineers to develop reporting interface for power station equipment."
             ]
@@ -77,6 +83,7 @@
     ],
     "qualifications": [
         {
+            "id": "languages",
             "title": "Languages",
             "children": [
                 {
@@ -94,23 +101,25 @@
             ]
         },
         {
+            "id": "tools",
             "title": "Tools",
             "children": [
                 {
-                    "category": "Frontend",
+                    "category": "frontend",
                     "values": ["React", "Remix", "HTML5/CSS", "NodeJS", "NestJS"]
                 },
                 {
-                    "category": "Backend",
+                    "category": "backend",
                     "values": ["Spring Boot", "gRPC", "Redis", "SQLite", "DynamoDB"]
                 },
                 {
-                    "category": "Infra",
+                    "category": "infra",
                     "values": ["AWS", "Docker", "Terraform", "GitHub Actions", "SNS/SQS", "ElasticSearch"]
                 }
             ]
         },
         {
+            "id": "likes",
             "title": "Things I Care About",
             "children": [
                 "Developer experience & internal tooling",
