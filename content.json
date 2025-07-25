@@ -78,11 +78,20 @@
     "qualifications": [
         {
             "title": "Languages",
-            "children": {
-                "strong": ["JavaScript/TypeScript", "Rust"],
-                "proficient": ["Kotlin", "Python"],
-                "exposure": ["Java"]
-            }
+            "children": [
+                {
+                    "category": "strong",
+                    "values": ["JavaScript/TypeScript", "Rust"]
+                },
+                {
+                    "category": "proficient",
+                    "values": ["Kotlin", "Python"]
+                },
+                {
+                    "category": "exposure",
+                    "values": ["Java"]
+                }
+            ]
         },
         {
             "title": "Tools",
