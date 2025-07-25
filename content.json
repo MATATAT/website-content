@@ -32,12 +32,11 @@
             "startDate": "August 2019",
             "endDate": "October 2022",
             "notes": [
-                "Owned front-end development of a first-party interactive ad solution for Hulu device platforms.",
-                "Owned design and development of a proprietary UI framework for low-level devices written in Rust.",
-                "Led development integrating 3rd-party playback analytics into device platforms.",
-                "Analyzed performance on live programming guide and optimized to improve initial render time by 75% (~6 seconds). Response times in navigation were also improved.",
-                "Collaborated with UI designers and product managers on improved playback seeking experience and “channel flipping” features.",
-                "Gave lectures across the organization on Apple HLS standards, team-scale project planning techniques, pair programming techniques, and mob programming techniques."
+                "Led front-end development for interactive ad experiences across Hulu’s device platforms, collaborating closely with design and product teams.",
+                "Integrated third-party analytics SDKs across multiple platforms, ensuring accurate telemetry for live video playback and user interactions.",
+                "Improved rendering and navigation performance in the live programming guide, reducing initial load times by 75% (~6 seconds).",
+                "Delivered playback feature enhancements including seek behavior and channel-flipping mechanics across supported platforms.",
+                "Championed developer education across the org, giving internal talks on HLS standards, pair/mob programming, and team-scale planning practices."
             ]
         },
         {
@@ -47,11 +46,11 @@
             "startDate": "November 2015",
             "endDate": "August 2019",
             "notes": [
-                "Gathered requirements, designed, and implemented automated video source routing and monitoring via service interfacing with hardware routers.",
-                "Led telemetry and monitoring efforts on core transcoding platform using StatsD, Kafka, and DataDog.",
-                "Gathered requirements and developed components responsible for ad and program signaling. Ingested SCTE-35 broadcasting-standard signals and produced output based on user settings.",
-                "Designed and implemented logging and debugging pipeline for the above component using AWS services such as Kinesis, Lambda, and ElasticSearch.",
-                "Led investigations on time-sensitive software defects and service outages."
+                "Designed and implemented automated video source routing and monitoring services in Python, interfacing with live broadcast hardware and control APIs.",
+                "Led observability and telemetry efforts for a high-volume transcoding platform using StatsD, Kafka, and DataDog, collaborating with engineers across a C++ codebase.",
+                "Built real-time ad and program signaling components in C#, ingesting SCTE-35 broadcast data and generating outputs based on custom configurations.",
+                "Developed a scalable logging and diagnostics pipeline using AWS Kinesis, Lambda, and ElasticSearch to support rapid debugging in production.",
+                "Investigated and resolved high-priority defects in live environments under tight operational timelines."
             ]
         },
         {
@@ -79,11 +78,16 @@
     "qualifications": [
         {
             "title": "Languages",
-            "children": ["JavaScript/TypeScript", "HTML5/CSS", "Rust", "Kotlin"]
+            "children": {
+                "strong": ["JavaScript/TypeScript", "Rust"],
+                "proficient": ["Kotlin", "Python"],
+                "exposure": ["Java"]
+            }
         },
         {
             "title": "Tools",
             "children": [
+                "HTML5/CSS",
                 "React",
                 "NodeJS",
                 "Remix",
@@ -95,16 +99,20 @@
                 "GitHub Actions",
                 "AWS",
                 "Terraform",
-                "Git"
+                "DynamoDB",
+                "SQLite",
+                "Redis",
+                "SQS/SNS"
             ]
         },
         {
             "title": "Likes",
             "children": [
-                "Collaboration",
-                "Functional programming paradigms",
-                "Strong typing in code",
-                "Optimizing for rapid development"
+                "Collaborative product development",
+                "strong typing",
+                "functional paradigms",
+                "developer tooling",
+                "performance optimization"
             ]
         }
     ],
