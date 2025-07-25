@@ -115,13 +115,12 @@
             ]
         },
         {
-            "title": "Likes",
+            "title": "Things I Care About",
             "children": [
+                "Developer experience & internal tooling",
+                "Strong typing and functional programming",
                 "Collaborative product development",
-                "strong typing",
-                "functional paradigms",
-                "developer tooling",
-                "performance optimization"
+                "Performance tuning and observability"
             ]
         }
     ],
