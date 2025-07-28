@@ -18,13 +18,14 @@
             "location": "Seattle, WA",
             "startDate": "October 2022",
             "endDate": "",
-            "summary": "Built platform services and tooling to support development and playtesting for multiplayer titles, including an unreleased project and a stealth game in development.",
+            "summary": "Built backend platform services and developer tooling for multiplayer games, including infrastructure for content distribution, account systems, and live playtest support.",
             "notes": [
                 "Led development of backend and web services supporting account management and player onboarding, using Kotlin, Spring Boot, and React.",
                 "Designed and implemented distribution infrastructure and desktop launcher in Rust, enabling scalable content delivery and seamless game startup.",
-                "Contributed to game platform services for authentication, user and party management, and player communication (e.g., email verification, account notifications).",
+                "Contributed to game platform services for authentication, account and party management, and user-facing communication (e.g., email verification, account notifications), primarily using Kotlin and Spring Boot.",
                 "Supported live playtests with over 500 player engagements across multiple hour-long sessions, validating systems under real usage and informing iteration.",
-                "Built and maintained a Discord-based bot to support early social features and moderation workflows."
+                "Built and maintained a Discord-based bot to support early social features and moderation workflows.",
+                "Contributed service and web app mocks to support integration testing workflows, and advised on use cases and developer-facing needs for shared mocking tools."
             ]
         },
         {
