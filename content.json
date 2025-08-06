@@ -93,7 +93,7 @@
                 {
                     "rank": "medium",
                     "category": "proficient",
-                    "values": ["Kotlin", "Java (primarily via Kotlin interop and JVM-based tooling)"]
+                    "values": ["Kotlin", "Java (via Kotlin/JVM)"]
                 },
                 {
                     "rank": "low",
@@ -112,7 +112,7 @@
                 },
                 {
                     "category": "backend",
-                    "values": ["Spring Boot", "gRPC", "Redis", "SQLite", "DynamoDB"]
+                    "values": ["Spring Boot", "gRPC", "Redis", "SQLite", "DynamoDB", "Tokio", "Axum"]
                 },
                 {
                     "category": "infra",
