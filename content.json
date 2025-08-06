@@ -91,11 +91,11 @@
                 },
                 {
                     "category": "proficient",
-                    "values": ["Kotlin", "Python"]
+                    "values": ["Kotlin", "Java (primarily via Kotlin interop and JVM-based tooling)"]
                 },
                 {
-                    "category": "exposure",
-                    "values": ["Java"]
+                    "category": "familiar",
+                    "values": ["Python, C#, Go, C++"]
                 }
             ]
         },
