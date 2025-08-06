@@ -23,9 +23,9 @@
                 "Led development of backend and web services supporting account management and player onboarding, using Kotlin, Spring Boot, and React.",
                 "Designed and implemented distribution infrastructure and desktop launcher in Rust, enabling scalable content delivery and seamless game startup.",
                 "Contributed to game platform services for authentication, account and party management, and user-facing communication (e.g., email verification, account notifications), primarily using Kotlin and Spring Boot.",
+                "Advised on the design and implementation of a cross-platform SDK for a customized game engine, contributing to decisions around memory management, threading models, and Rust FFI integration.",
                 "Supported live playtests with over 500 player engagements across multiple hour-long sessions, validating systems under real usage and informing iteration.",
-                "Built and maintained a Discord-based bot to support early social features and moderation workflows.",
-                "Contributed service and web app mocks to support integration testing workflows, and advised on use cases and developer-facing needs for shared mocking tools."
+                "Built and maintained a Discord-based bot to support early social features and moderation workflows."
             ]
         },
         {
