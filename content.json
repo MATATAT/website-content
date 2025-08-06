@@ -86,19 +86,19 @@
             "title": "Languages",
             "children": [
                 {
-                    "rank": 1,
+                    "rank": "high",
                     "category": "strong",
                     "values": ["JavaScript/TypeScript", "Rust"]
                 },
                 {
-                    "rank": 2,
+                    "rank": "medium",
                     "category": "proficient",
                     "values": ["Kotlin", "Java (primarily via Kotlin interop and JVM-based tooling)"]
                 },
                 {
-                    "rank": 3,
+                    "rank": "low",
                     "category": "familiar",
-                    "values": ["Python, C#, Go, C++"]
+                    "values": ["Python", "C#", "Go", "C++"]
                 }
             ]
         },
