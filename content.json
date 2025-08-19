@@ -21,8 +21,8 @@
             "summary": "Built backend platform services and developer tooling for multiplayer games, including infrastructure for content distribution, account systems, and live playtest support.",
             "notes": [
                 "Owned development of authentication, account management, and player onboarding services using Kotlin, Spring Boot, and React/Remix/NestJS, including backend APIs and web UI flows.",
+                "Advised on the architecture and implementation of a cross-platform SDK for a customized game engine, contributing to decisions around memory management, threading models, and Rust FFI integration.",
                 "Designed and implemented distribution infrastructure and desktop launcher in Rust, enabling scalable content delivery and seamless game startup.",
-                "Advised on the design and implementation of a cross-platform SDK for a customized game engine, contributing to decisions around memory management, threading models, and Rust FFI integration.",
                 "Led implementation of user-facing communication features (e.g., email verification), and contributed to party and voice chat services integrated with Epic Online Services (EOS).",
                 "Supported live playtests with over 500 player engagements across multiple hour-long sessions, validating systems under real usage and informing iteration.",
                 "Built and maintained a Discord-based bot to support early social features and moderation workflows."
